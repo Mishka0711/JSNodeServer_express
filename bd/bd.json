@@ -1,1 +1,28 @@
-{"title":"Server title","comments":["sbfbeertr444","rbeb22","333","www","dvsdv","dsvsdv","dsdvsdv","dvsvd","dsvsdv","dvsdv","dd","sdvdsv","fdbdb","54555","sss","dehhrh","234455t"]}
+{
+  "title": "Server title",
+  "comments": [
+    "sbfbeertr444",
+    "rbeb22",
+    "333",
+    "www",
+    "dvsdv",
+    "dsvsdv",
+    "dsdvsdv",
+    "dvsvd",
+    "dsvsdv",
+    "dvsdv",
+    "dd",
+    "sdvdsv",
+    "fdbdb",
+    "54555",
+    "sss",
+    "dehhrh",
+    "234455t"
+  ],
+  "products": [
+    { "id": 0, "text": "Первый1", "isDone": false },
+    { "id": 2, "text": "Второй2", "isDone": false },
+    { "id": 3, "text": "Третий3", "isDone": true },
+    { "id": 4, "text": "Третий3", "isDone": false }
+  ]
+}
